@@ -1,4 +1,4 @@
-# Welcome to Python Tutorial!
+
 👋 Hello! I’m Shubham Sharma, a mathematics researcher using Python and SageMath for computational modeling and scientific exploration. I create resources for students and researchers interested in symbolic computation, algebra, and astrophysics.
 
 ⸻
