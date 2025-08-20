@@ -1,5 +1,4 @@
-
-👋 Hello! I’m Shubham Sharma, a mathematics researcher using Python and SageMath for computational modeling and scientific exploration. I create resources for students and researchers interested in symbolic computation, algebra, and astrophysics.
+A mathematics researcher specializing in computational modeling, gravitational-wave data analysis, and theoretical astrophysics. The work focuses on symbolic computation and numerical simulations, employing Python, Mathematica and SageMath to develop tools and resources for studying compact stellar objects and supporting students and researchers in the mathematical sciences.
 
 ⸻
 
